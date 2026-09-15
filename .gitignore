@@ -1,0 +1,4 @@
+build/
+out/
+deployments/
+__pycache__/

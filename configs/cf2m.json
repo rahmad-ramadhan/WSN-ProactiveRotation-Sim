@@ -1,0 +1,8 @@
+{
+  "arm": "radpr",
+  "radpr_score": "fa_cost",
+  "fa_x2": 2.0,
+  "Gamma": 0.0,
+  "radpr_stranded": "detach",
+  "log_gaps": false
+}
